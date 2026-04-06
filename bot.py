@@ -11,7 +11,6 @@ from configs import ParserConfigs
 
 
 #!TODO: make full async
-#!TODO: add more annotations
 #!TODO: remove configs to .conf file
 
 
